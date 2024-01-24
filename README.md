@@ -1,4 +1,4 @@
-Responsive Layout Module 2 Coursera Johns Hopkins -------> https://jean-joooo.github.io/module2-solution/
+Responsive Layout Module 2 Coursera Johns Hopkins -------> https://jean-joooo.github.io/module2-solution-HTML-CSS-and-Js-Web-Dev-Coursera-Johns-Hopkins/
 
 In this exercise, I focused on creating a responsive layout without using any CSS frameworks, including Twitter Bootstrap. The task involved implementing breakpoints for desktop, tablet, and mobile views. A simple site structure with a page heading and three sections was designed to adapt based on the browser window's width.
 
